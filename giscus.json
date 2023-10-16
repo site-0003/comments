@@ -1,0 +1,8 @@
+{
+  "origins": [
+    "https://lib.onl"
+  ],
+  "originsRegex": [
+    "http://localhost:[0-9]+"
+  ]
+}
